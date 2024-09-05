@@ -1,1 +1,1 @@
-A sorare lineup builder
+Sorare rivals - lineup predictor
